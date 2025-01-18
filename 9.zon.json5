@@ -1,0 +1,231 @@
+{
+  "number": 9,
+  "name": "River Island Of Minos",
+  "bot": 900,
+  "top": 999,
+  "lifespan": 39,
+  "reset_mode": 1,
+  "cmd": [
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 3,
+      "mob": 900,
+      "room": 915
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 3,
+      "mob": 900,
+      "room": 915
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 3,
+      "mob": 900,
+      "room": 915
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 2,
+      "mob": 901,
+      "room": 916
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 15,
+      "obj": 901,
+      "eq_pos": 17
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 2,
+      "mob": 901,
+      "room": 916
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 1,
+      "mob": 902,
+      "room": 917
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 1,
+      "mob": 903,
+      "room": 918
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 1,
+      "mob": 904,
+      "room": 919
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 10,
+      "obj": 903,
+      "eq_pos": 9
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 25,
+      "obj": 902,
+      "eq_pos": 17
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 1,
+      "mob": 905,
+      "room": 920
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 10,
+      "obj": 905,
+      "eq_pos": 16
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 1,
+      "mob": 906,
+      "room": 920
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 5,
+      "obj": 907,
+      "eq_pos": 16
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 1,
+      "mob": 907,
+      "room": 921
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 8,
+      "obj": 901,
+      "eq_pos": 11
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 1,
+      "obj": 900,
+      "eq_pos": 17
+    },
+    {
+      "command": "O",
+      "if_flag": 1,
+      "max_existing": 10,
+      "obj": 904,
+      "room": 922
+    },
+    {
+      "command": "O",
+      "if_flag": 1,
+      "max_existing": 1,
+      "obj": 906,
+      "room": 922
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 2,
+      "mob": 909,
+      "room": 908
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 2,
+      "mob": 909,
+      "room": 908
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 2,
+      "mob": 910,
+      "room": 909
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 30,
+      "obj": 908,
+      "eq_pos": 16
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 2,
+      "mob": 910,
+      "room": 909
+    },
+    {
+      "command": "E",
+      "if_flag": 1,
+      "max_existing": 30,
+      "obj": 908,
+      "eq_pos": 16
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 3,
+      "mob": 911,
+      "room": 910
+    },
+    {
+      "command": "M",
+      "if_flag": 0,
+      "max_existing": 3,
+      "mob": 911,
+      "room": 910
+    },
+    {
+      "command": "R",
+      "if_flag": 0,
+      "room": 910,
+      "obj": 909
+    },
+    {
+      "command": "O",
+      "if_flag": 0,
+      "max_existing": 12,
+      "obj": 909,
+      "room": 910
+    },
+    {
+      "command": "D",
+      "if_flag": 0,
+      "room": 921,
+      "exit": 1,
+      "state": 2
+    },
+    {
+      "command": "S",
+      "if_flag": 0,
+      "max_existing": 0
+    }
+  ]
+}

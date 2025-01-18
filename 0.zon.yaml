@@ -1,0 +1,13 @@
+number: 0
+name: Limbo - Internal
+bot: 0
+top: 99
+lifespan: 10
+reset_mode: 2
+script: null
+cmd:
+- command: spawn_mob
+  if_flag: 0
+  max_existing: 1
+  mob: 1
+  room: 1
